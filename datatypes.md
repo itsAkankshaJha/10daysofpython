@@ -33,8 +33,16 @@ The format() method takes the passed arguments, formats them, and places them in
 
 
 ### LISTS
-Lists are used to store multiple items in a single variable.It Allow Duplicates.
+Lists are used to store multiple items in a single variable.It Allow Duplicates and is changeable.
 
 
 ![l](https://user-images.githubusercontent.com/72215893/132052622-cb8adab8-84c2-4679-b027-34f491d4bbff.png)
 
+
+## TUPLES
+Tuple items are ordered, unchangeable, and allow duplicate values.
+
+![tuple](https://user-images.githubusercontent.com/72215893/142620492-afcafa8d-08b5-47b3-8ff7-f295af31bf9b.png)
+
+## SETS
+A set is a collection which is unordered, unchangeable*, and unindexed. **NO DUPLICATES ALLOWED**
