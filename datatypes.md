@@ -25,8 +25,16 @@ strings can be dynamically concatenated by using curly braces .
  ![methods](https://user-images.githubusercontent.com/72215893/132038407-ded23d42-c71e-466d-8858-c95c9bff6c42.png)
 ![ou](https://user-images.githubusercontent.com/72215893/132038482-d4d9e21e-4a62-46b2-a0d9-518de23693ae.png)
 
+we cannot combine strings and numbers directly.<br>
+The format() method takes the passed arguments, formats them, and places them in the string where the placeholders {} are:
+
+![format](https://user-images.githubusercontent.com/72215893/142566393-d0749576-4348-4633-9141-d3e1545397af.png)
+
+
 
 ### LISTS
+Lists are used to store multiple items in a single variable.It Allow Duplicates.
+
 
 ![l](https://user-images.githubusercontent.com/72215893/132052622-cb8adab8-84c2-4679-b027-34f491d4bbff.png)
 
