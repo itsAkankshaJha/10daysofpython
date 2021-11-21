@@ -14,3 +14,7 @@ we can place normal arguemnts also but always on the left
 ![arg1](https://user-images.githubusercontent.com/72215893/142751004-ea13397d-845e-45c1-8f96-6b5a09deb068.png)
 
 **a list is passed as a tuple**
+
+- keyword arguments
+![kwargs](https://user-images.githubusercontent.com/72215893/142752141-8d8b42f9-af03-4c6a-b533-5fe2681959f9.png)
+
