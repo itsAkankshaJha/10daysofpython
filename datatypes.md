@@ -45,5 +45,5 @@ Tuple items are ordered, unchangeable, and allow duplicate values.
 ![tuple](https://user-images.githubusercontent.com/72215893/142620492-afcafa8d-08b5-47b3-8ff7-f295af31bf9b.png)
 
 ## SETS
-A set is a collection which is unordered, unchangeable*, and unindexed. **NO DUPLICATES ALLOWED**
+A set is a collection which is unordered, unchangeable*, and unindexed. **NO DUPLICATES ALLOWED** <br>
 add() , update() , remove() , pop() ,union() , intersection()
