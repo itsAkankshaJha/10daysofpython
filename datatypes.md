@@ -46,3 +46,4 @@ Tuple items are ordered, unchangeable, and allow duplicate values.
 
 ## SETS
 A set is a collection which is unordered, unchangeable*, and unindexed. **NO DUPLICATES ALLOWED**
+add() , update() , remove() , pop() ,union() , intersection()
